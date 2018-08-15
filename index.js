@@ -18,4 +18,4 @@ const createFareMultiplier = function(multiple) {
   };
 };
 
-const fareDoubler() = createFareMultiplier()
+const fareDoubler = createFareMultiplier(2);
