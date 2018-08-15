@@ -13,5 +13,5 @@ const selectingDrivers = [
 ];
 
 const createFareMultiplier = function(i) {
-  return 
+  return function()
 }
